@@ -2627,7 +2627,7 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #39c29d;
+				background-color: #71b5c0;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
